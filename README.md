@@ -26,7 +26,7 @@ Department	LAPD
 Location Specified
 Does this data have a Location column? (Yes or No)	Yes
 
-What geographic unit is the data collected?	Latitude/longitude
+What geographic unit is the data collected?	Latitude/longitude.
 
 
 
